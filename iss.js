@@ -85,10 +85,6 @@ const fetchISSFlyOverTimes = function(coords, callback) {
 };
 
 
-
-
-const request = require('request');
-
 // ... other three functions not included in solution ...
 
 /**
